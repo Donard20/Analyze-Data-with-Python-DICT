@@ -18,6 +18,18 @@ Python Training sponsored by DICT-Philippines.
 - [x] Predictive Analysis
 - [x] Prescriptive Analysis
 
+## Data Analysis
+   <details>
+  <summary>
+  What is Data Analysis
+  </summary>
+  <p align="center">
+  <img src="https://github.com/Donard20/Analyze-Data-with-Python-DICT/blob/main/IMG/Data%20Analysis/1.png" width=80% height=80%>
+   <img src="https://github.com/Donard20/Analyze-Data-with-Python-DICT/blob/main/IMG/Data%20Analysis/2.png" width=80% height=80%>
+
+
+  </details>
+
 ## Project File
 
 <!--  - Introduction to statistics
