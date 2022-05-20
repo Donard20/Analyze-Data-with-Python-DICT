@@ -3,7 +3,7 @@
 
 Python Training sponsored by DICT-Philippines. 
 <p align="center">
-<img src="https://github.com/Donard20/learn-basic-statistics-python-DICT/blob/main/IMG/statistics.png" width=50% height=50%>
+<img src="https://github.com/Donard20/Analyze-Data-with-Python-DICT/blob/main/IMG/DA%20img.png" width=50% height=50%>
 
 [Python Training](https://www.noypigeeks.com/government/dict-python-programming-courses/) offered April 2022
 
@@ -12,6 +12,11 @@ Python Training sponsored by DICT-Philippines.
 
 - [@Donard20](https://github.com/Donard20)
 
+## 📊 Discussing about:
+- [x] Descriptive Analysis
+- [x] Diagnostic Analysis
+- [x] Predictive Analysis
+- [x] Prescriptive Analysis
 
 ## Project File
 
@@ -30,10 +35,17 @@ Python Training sponsored by DICT-Philippines.
 - [x] Plot datasets with *Matplotlib* -->
 
 ## 🛠 Skill and IDE
-Python 3 | Pycharm Community and VSCode for Github integration
 
+IDE
 <p align="center">
 <img src="https://github.com/Donard20/learn-basic-statistics-python-DICT/blob/main/IMG/jupyter-logo-main-960x504.png" width=30% height=30%>
+ 
+- Libraries
+  - Numpy
+  - Pandas
+- Plotting Libraries
+  - Matplotlib
+  - Seaborn
 
 ## Used By
 
