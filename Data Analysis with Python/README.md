@@ -22,7 +22,7 @@
 
  <details>
 <summary>
-bestseller.csv
+bestseller.csv (Data Handling in Python)
 </summary>
   <p align="center">
   <img src="https://github.com/Donard20/Analyze-Data-with-Python-DICT/blob/main/IMG/ins_2.png" width=40% height=40%>
@@ -47,7 +47,7 @@ bestseller.csv
   
   ## 🔥 Learned:
 
->- [x] Data Handling in Python 
+- [x] Data Handling in Python 
    - [x] Series() -create a series passing by list
    - [x] DataFrame() -data framing 
    - [x] read_csv() -reading a data from local machine
