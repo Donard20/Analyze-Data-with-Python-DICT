@@ -8,7 +8,8 @@
 * 🔥 [Aim for this lesson](#aim)
 * 🛠️ [Problem ](#problem-statement)
 * 🚀 [Solutions](#solutions)
-<!-- * 🔥 [Learned](#learn) -->
+* 🔥 [Learned](#learn)
+ 
 ---
 
 ## 🔥 Aim for this lesson
@@ -36,14 +37,24 @@ bestseller.csv
    <a href="https://github.com/Donard20/Analyze-Data-with-Python-DICT/blob/main/Data%20Analysis%20with%20Python/bestsellers%20basic%20data%20analysis.ipynb" target="_blank"><img src="https://img.shields.io/badge/View-My%20Solution-blue?style=for-the-badge&logo=github"></a>
   
 
-
+   </detals>
   
+ </details>
+ 
+ </details>
+ 
   ---
   
   ## 🔥 Learned:
 
-> What I learned from here is whether it is small or large data you should visualize your data as a big data. Always include arrays for easy accesing list of data. 
-  I used a simple program and didn't include array library. I'll explore more on functions and arrays and use it in my next exercises
+>- [x] Data Handling in Python 
+   - [x] Series() -create a series passing by list
+   - [x] DataFrame() -data framing 
+   - [x] read_csv() -reading a data from local machine
+   - [x] info() - get the information of data and data types
+   - [x] head() - display first 5 rows of data
+   - [x] tail() - display last 5 rows of data
+   - [x] shape() - display the shape, number of columns and rows
   
   
 
