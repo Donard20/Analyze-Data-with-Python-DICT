@@ -30,20 +30,25 @@ Python Training sponsored by DICT-Philippines.
 
   </details>
 
-## Project File
+## Analyze Data with Python
 
-<!--  - Introduction to statistics
- - Statistics with Python
- - Statistics in the Real World -->
+ - Introduction to Data Analysis
+ - Data Analysis with Python
+<!--  - Statistics in the Real World -->
  
 ## 📙 Learned about:
 
-<!-- - [x] Statistical function for statistical operations
-- [x] Difference between population and sample data
-- [x] Computed statistical operations with *Numpy*
-- [x] Work with real life data set using *Pandas*
-- [x] Use *read csv method* and the *descrive method*
-- [x] Filter the dataset using *isin method* and sort using *sort values method*
+- [x] Data Analysis method
+- [x] Review of function, arrays and list in jupyternotebook using python
+- [x] Data Handling in Python 
+   - [x] Series() -create a series passing by list
+   - [x] DataFrame() -data framing 
+   - [x] read_csv() -reading a data from local machine
+   - [x] info() - get the information of data and data types
+   - [x] head() - display first 5 rows of data
+   - [x] tail() - display last 5 rows of data
+   - [x] shape() - display the shape, number of columns and rows
+<!-- - [x] Filter the dataset using *isin method* and sort using *sort values method*
 - [x] Plot datasets with *Matplotlib* -->
 
 ## 🛠 Skill and IDE
