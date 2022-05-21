@@ -8,7 +8,7 @@
 * 🔥 [Aim for this lesson](#aim)
 * 🛠️ [Problem ](#problem-statement)
 * 🚀 [Solutions](#solutions)
-* 🔥 [Learned](#learn)
+<!-- * 🔥 [Learned](#learn) -->
 ---
 
 ## 🔥 Aim for this lesson
