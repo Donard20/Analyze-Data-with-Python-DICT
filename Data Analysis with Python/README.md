@@ -17,7 +17,7 @@
 
 ## 🔥 Aim for this lesson
 
-> A simple guided learning about basic data handling in Python.
+> A simple and guided learning about basic data handling in Python.
  
 
 ---
