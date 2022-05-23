@@ -59,7 +59,7 @@ bestseller.csv (Data Handling in Python)
    - [x] tail() - display last 5 rows of data
    - [x] shape() - display the shape, number of columns and rows
 - [x] Working with DataFrame 
-   - [x] dropna(), usnull, and isna() nethods - for null vaues in data
+   - [x] dropna(), isnull, and isna() nethods - for null vaues in data
    - [x] describe() method - information of dataframe 
    - [x] simple filtering with conditionals
    - [x] arranging with sort_values
