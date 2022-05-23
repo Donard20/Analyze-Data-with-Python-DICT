@@ -62,7 +62,7 @@ bestsellers removing null values 3_8 (Working with DataFrame)
   Learn Basic Statistics with Python
   </summary>
    <p align="center">
-   <a href="  https://github.com/Donard20/Analyze-Data-with-Python-DICT/blob/main/Data%20Analysis%20with%20Python/bestsellers%20removing%20null%20values%203_8.ipynb" target="_blank"><img src="https://img.shields.io/badge/View-My%20Solution-blue?style=for-the-badge&logo=github"></a>
+   <a href="https://github.com/Donard20/Analyze-Data-with-Python-DICT/blob/main/Data%20Analysis%20with%20Python/bestsellers%20removing%20null%20values%203_8.ipynb" target="_blank"><img src="https://img.shields.io/badge/View-My%20Solution-blue?style=for-the-badge&logo=github"></a>
   
 
    </detals>
