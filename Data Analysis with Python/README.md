@@ -48,6 +48,31 @@ bestseller.csv (Data Handling in Python)
  
   ---
   
+   <details>
+<summary>
+bestsellers removing null values 3_8 (Working with DataFrame)
+</summary>
+  <p align="center">
+  <img src="https://github.com/Donard20/Analyze-Data-with-Python-DICT/blob/main/IMG/ins_3.png" width=40% height=40%>
+  
+   ## 🚀 Solution
+
+  <details>
+  <summary>
+  Learn Basic Statistics with Python
+  </summary>
+   <p align="center">
+   <a href="  https://github.com/Donard20/Analyze-Data-with-Python-DICT/blob/main/Data%20Analysis%20with%20Python/bestsellers%20removing%20null%20values%203_8.ipynb" target="_blank"><img src="https://img.shields.io/badge/View-My%20Solution-blue?style=for-the-badge&logo=github"></a>
+  
+
+   </detals>
+  
+ </details>
+ 
+ </details>
+  
+
+  ---
   ## 🔥 Learned:
 
 - [x] Data Handling in Python 
