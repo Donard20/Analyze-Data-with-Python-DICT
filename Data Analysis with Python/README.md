@@ -3,7 +3,10 @@
 # 📜 Data Analysis with Python
 <p align="center">
 <img src="https://github.com/Donard20/Analyze-Data-with-Python-DICT/blob/main/IMG/mod_3%20header.png" width=80% height=80%>
-
+ 
+<p align="center">
+<img src="https://github.com/Donard20/Analyze-Data-with-Python-DICT/blob/main/IMG/mod_4%20header.png" width=80% height=80%>
+ 
 ## 📖 Table Of Contents
 * 🔥 [Aim for this lesson](#aim)
 * 🛠️ [Problem ](#problem-statement)
