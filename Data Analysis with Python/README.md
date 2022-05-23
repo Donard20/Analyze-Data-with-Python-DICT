@@ -17,7 +17,7 @@
 
 ## 🔥 Aim for this lesson
 
-> A simple guided learning about basic data handling in Python.
+> A simple and guided learning about basic data handling in Python.
  
 
 ---
@@ -58,6 +58,13 @@ bestseller.csv (Data Handling in Python)
    - [x] head() - display first 5 rows of data
    - [x] tail() - display last 5 rows of data
    - [x] shape() - display the shape, number of columns and rows
+- [x] Working with DataFrame 
+   - [x] dropna(), usnull, and isna() nethods - for null vaues in data
+   - [x] describe() method - information of dataframe 
+   - [x] simple filtering with conditionals
+   - [x] arranging with sort_values
+   - [x] aggregate method
+
   
   
 
