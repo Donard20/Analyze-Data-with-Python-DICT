@@ -46,14 +46,13 @@ Module 4 bestsellers Coding Exercises (Data Analysis in the Real World)
  
  </details>
  
-  ---
-  
-<!--    <details>
+ 
+ <details>
 <summary>
-bestsellers removing null values 3_8 (Working with DataFrame)
+Module 4 bestsellers Coding Exercises "Adding Visualization" 4_8 (Data Analysis in the Real World)
 </summary>
   <p align="center">
-  <img src="https://github.com/Donard20/Analyze-Data-with-Python-DICT/blob/main/IMG/ins_3.png" width=40% height=40%>
+  <img src="https://github.com/Donard20/Analyze-Data-with-Python-DICT/blob/main/IMG/ins_5.png" width=40% height=40%>
   
    ## 🚀 Solution
 
@@ -62,14 +61,18 @@ bestsellers removing null values 3_8 (Working with DataFrame)
   Learn Basic Statistics with Python
   </summary>
    <p align="center">
-   <a href="https://github.com/Donard20/Analyze-Data-with-Python-DICT/blob/main/Data%20Analysis%20with%20Python/bestsellers%20removing%20null%20values%203_8.ipynb" target="_blank"><img src="https://img.shields.io/badge/View-My%20Solution-blue?style=for-the-badge&logo=github"></a>
+   <a href="https://github.com/Donard20/Analyze-Data-with-Python-DICT/blob/main/Data%20Analysis%20in%20the%20Real%20World/Module%204%20%20bestsellers%20Coding%20Exercises%20adding%20visualization%20%204_8.ipynb" target="_blank"><img src="https://img.shields.io/badge/View-My%20Solution-blue?style=for-the-badge&logo=github"></a>
   
 
    </detals>
   
  </details>
  
- </details> -->
+ </details>
+ 
+  ---
+  
+
   
 
   ---
@@ -81,13 +84,13 @@ bestsellers removing null values 3_8 (Working with DataFrame)
    - [x] fillna() method - to fill null values into non null
    - [x] to_datetime() method - to convert object into date data type
    - [x] astype method() - to convert a object into string readable
-<!-- - [x] Working with DataFrame 
-   - [x] dropna(), isnull, and isna() nethods - for null vaues in data
-   - [x] describe() method - information of dataframe 
-   - [x] simple filtering with conditionals
-   - [x] arranging with sort_values
-   - [x] aggregate method
- -->
-  
+- [x] Modelling the Data
+   - [x] More about Data Analysis Steps
+   - [x] More about Pandas basic methods
+   - [x] barplot() - for making barcharts from matplotlib.pyplot packages
+   - [x] lineplot() - for making line charts from matplotlib.pyplot packages
+   - [x] label() - for labeling the axes
+   - [x] title() - for making title in the charts
+   - [x] show() - displaying the charts 
   
 
