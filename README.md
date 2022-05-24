@@ -34,7 +34,8 @@ Python Training sponsored by DICT-Philippines.
 
  - Introduction to Data Analysis
  - Data Analysis with Python
-<!--  - Statistics in the Real World -->
+ - Data Analysis in the Real World
+
  
 ## 📙 Learned about:
 
@@ -54,6 +55,12 @@ Python Training sponsored by DICT-Philippines.
    - [x] simple filtering with conditionals
    - [x] arranging with sort_values
    - [x] aggregate method
+- [x] Analyze the Data
+   - [x] Clean the Data
+   - [x] Applied the methods learned from the previous lesson/s
+   - [x] fillna() method - to fill null values into non null
+   - [x] to_datetime() method - to convert object into date data type
+   - [x] astype method() - to convert a object into string readable
 
 <!-- - [x] Filter the dataset using *isin method* and sort using *sort values method*
 - [x] Plot datasets with *Matplotlib* -->
