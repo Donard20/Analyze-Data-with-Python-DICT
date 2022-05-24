@@ -65,6 +65,33 @@ Python Training sponsored by DICT-Philippines.
 <!-- - [x] Filter the dataset using *isin method* and sort using *sort values method*
 - [x] Plot datasets with *Matplotlib* -->
 
+---
+   
+## Summary of my Journey
+   <details>
+  <summary>
+  Analyzing Data with Python
+  </summary>
+  <p align="center">
+  <img src="https://github.com/Donard20/Analyze-Data-with-Python-DICT/blob/main/IMG/summary/1.png" width=50% height=50%>
+  <img src="https://github.com/Donard20/Analyze-Data-with-Python-DICT/blob/main/IMG/summary/2.png" width=50% height=50%>
+  <img src="https://github.com/Donard20/Analyze-Data-with-Python-DICT/blob/main/IMG/summary/3.png" width=50% height=50%>
+  <img src="https://github.com/Donard20/Analyze-Data-with-Python-DICT/blob/main/IMG/summary/4.png" width=50% height=50%>
+  <img src="https://github.com/Donard20/Analyze-Data-with-Python-DICT/blob/main/IMG/summary/5.png" width=50% height=50%>
+  <img src="https://github.com/Donard20/Analyze-Data-with-Python-DICT/blob/main/IMG/summary/6.png" width=50% height=50%>
+  <img src="https://github.com/Donard20/Analyze-Data-with-Python-DICT/blob/main/IMG/summary/7.png" width=50% height=50%>
+  <img src="https://github.com/Donard20/Analyze-Data-with-Python-DICT/blob/main/IMG/summary/8.png" width=50% height=50%>
+  <img src="https://github.com/Donard20/Analyze-Data-with-Python-DICT/blob/main/IMG/summary/9.png" width=50% height=50%>
+  <img src="https://github.com/Donard20/Analyze-Data-with-Python-DICT/blob/main/IMG/summary/10.png" width=50% height=50%>
+  <img src="https://github.com/Donard20/Analyze-Data-with-Python-DICT/blob/main/IMG/summary/11.png" width=50% height=50%>
+  <img src="https://github.com/Donard20/Analyze-Data-with-Python-DICT/blob/main/IMG/summary/12.png" width=50% height=50%>
+
+
+
+  </details>
+
+---
+
 ## 🛠 Skill and IDE
 
 IDE
@@ -77,6 +104,23 @@ IDE
 - Plotting Libraries
   - Matplotlib
   - Seaborn
+
+---
+   
+## ✨ Certificate Training
+
+  <details>
+  <summary>
+  Analyze Data with Python
+  </summary>
+   <p align="center">
+   <a href="https://courses.buri.io/view/user/certificate/f4486dfb-3640-4ff4-bb63-689bb58c6bf1/pdf" target="_blank"><img src="https://img.shields.io/badge/View-My%20Certificate-purple?style=for-the-badge&logo=github"></a>
+
+
+ </details>
+
+
+ </details>
 
 ## Used By
 
